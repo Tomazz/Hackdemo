@@ -10,5 +10,6 @@ yolo because #yolo yolo
 yolo because #yolo yolo
 lololololololo
 do you even git bro?
+This is the CONFLICT!
 this is the mighty line!!!! #hashtag
 HAHAHAHAHAHAHAHAHA
