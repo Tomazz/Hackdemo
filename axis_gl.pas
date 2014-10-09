@@ -9,9 +9,11 @@ uses
 	math,
 	Gl;
 
-procedure DrawLine(sX, sY, eX, eY: Int64; Clr: Colour; Width: Int64);
-procedure DrawRectangle(sX, sY, eX, eY: Int64; Clr: Colour);
-procedure DrawBorder(sX, sY, eX, eY: Int64; Clr: Colour; Width: Int64);
+procedure DrawLine(sX, sY, eX, eY: Int64; Clr: Colour; Wi
+procedure DrawBorder(sX
+
+
+, sY, eX, eY: Int64; Clr: Colour; Width: Int64);
 procedure DrawArc(cX, cY, radius: Int64; StartAngle, ArcAngle: Real; Clr: Colour; Width: Int64);
 procedure DrawPoint(pX, pY: Int64; Clr: Colour; Size: Int64);
 procedure DrawSector(cX, cY, Radius: Int64; StartAngle, ArcAngle: Real; Clr: Colour);
