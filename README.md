@@ -4,7 +4,7 @@ Hackdemo
 yolo
 yolo yourself!
 <<<<<<< HEAD
-RANDOM SHIT ALL OVER DA PLACE
+#@RANDOM SHIT ALL OVER DA PLACE
 yolo because #yolo yolo
 =======
 lololololololo
